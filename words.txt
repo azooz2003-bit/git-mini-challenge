@@ -2,6 +2,8 @@ Hello! Welcome to today's mini-challenge.
 
 This is a story we would like to publish: 
 
-"In a bustling city, two friends, John and Sarah, were part of the GT iOS club, a community of tech enthusiasts. Together, they conceived "Big Mind," an app promoting mental well-being. With the club's and friends' support, they transformed their idea into reality, providing users with daily mindfulness exercises and meditation guides to find calm in a chaotic world."
+"In a bustling city, two friends, John and Sarah, were part of the Apps club, a community of tech enthusiasts. Together, they conceived "Health First," an app promoting mental well-being. With the club's and friends' support, they transformed their idea into reality, providing users with daily mindfulness exercises and meditation guides to find calm in a chaotic world."
 
 "Sarah and Alex turned their app into a billion-dollar company."
+
+"With their increased success, Sarah and Alex became popular role models for aspiring entrepreneurs. However, they also began to increasingly become targeted by jealous and hateful comments."
